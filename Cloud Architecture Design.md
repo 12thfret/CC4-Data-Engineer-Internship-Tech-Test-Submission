@@ -18,4 +18,9 @@ For this project, which involves transforming a JSON dataset into a CSV format, 
 2. **Scalability**: By utilising serverless services like Cloud Functions, the solution automatically scales based on the size of the data being processed. These services dynamically allocate resources, ensuring optimal performance even as the workload fluctuates.
 3. **Cost-Efficiency**: The pay-as-you-go pricing model of Google Cloud services helps minimise costs, as you only pay for the resources you use. For example, in Google BigQuery, you are billed based on the amount of data processed by your queries, making it a cost-effective solution for large-scale analytics.
 
+# Cloud Architecture Diagram
+For a visual representation of the cloud architecture, please refer to the diagram below:
+
+[![Cloud Architecture Diagram](https://drive.google.com/uc?export=view&id=1rqhz2Lu9GE44YBH7fhyOi8UvzzYlKEQj)](https://drive.google.com/file/d/1rqhz2Lu9GE44YBH7fhyOi8UvzzYlKEQj/view?usp=sharing)
+
 
